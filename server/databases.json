@@ -1,0 +1,9 @@
+{
+    "local" : {
+        "host" : "localhost",
+        "user" : "root",
+        "password" : "ye!@#$",
+        "database" : "react"
+    }
+
+}
